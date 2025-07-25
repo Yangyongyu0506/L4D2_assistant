@@ -1,2 +1,2 @@
 # L4D2_assistant
-A computer vision tool based on yolov8 for identifying specials in L4D2
+A computer vision tool based on yolov8n for identifying specials in L4D2
